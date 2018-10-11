@@ -48,4 +48,5 @@ public class FragmentRV extends Fragment {
 
         listItemAdapter.setItem(mList);
     }
+
 }

@@ -56,4 +56,5 @@ public class FragmentUserProfile extends MvpAppCompatFragment implements Interfa
     public void setUserEmail(String email) {
 
     }
+
 }
