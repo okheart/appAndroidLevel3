@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">appAndroidLevel3</string>
+
+    <!-- Common -->
+    <string name="nickname">Okheart</string>
+
+    <!-- For recyclerView -->
+    <string name="item_0">Item Zero</string>
+    <string name="item_1">Item One</string>
+    <string name="item_2">Item Two</string>
+
+    <!-- bottom menu -->
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_repositories">Repositories</string>
+
+
+
+
 </resources>
