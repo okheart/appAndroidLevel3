@@ -43,4 +43,5 @@ public class MainActivity extends AppCompatActivity {
         ft.replace(R.id.fl_content, fragment);
         ft.commit();
     }
+
 }

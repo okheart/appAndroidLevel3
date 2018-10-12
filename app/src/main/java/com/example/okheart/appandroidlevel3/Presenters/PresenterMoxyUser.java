@@ -16,4 +16,5 @@ public class PresenterMoxyUser extends MvpPresenter<InterfaceMoxyRV> {
     public void attachView(InterfaceMoxyRV view) {
         super.attachView(view);
     }
+
 }

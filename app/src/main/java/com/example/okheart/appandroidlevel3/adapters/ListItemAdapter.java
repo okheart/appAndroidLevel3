@@ -44,7 +44,6 @@ public class ListItemAdapter extends RecyclerView.Adapter<ListItemAdapter.ItemHo
 
         private TextView itemListName;
 
-
         ItemHolder(@NonNull View view) {
             super(view);
             itemListName = view.findViewById(R.id.tv_list_item_view);

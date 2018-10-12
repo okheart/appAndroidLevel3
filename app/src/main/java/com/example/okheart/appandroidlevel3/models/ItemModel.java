@@ -7,7 +7,6 @@ public class ItemModel {
     public ItemModel(String itemName) {
         this.itemName = itemName;
     }
-
     public String getItemName() {
         return itemName;
     }
